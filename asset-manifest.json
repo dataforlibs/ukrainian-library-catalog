@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/ukrainian-library-catalog/static/css/main.9e5edf35.css",
-    "main.js": "/ukrainian-library-catalog/static/js/main.62b06f16.js",
+    "main.js": "/ukrainian-library-catalog/static/js/main.57ca3c76.js",
     "static/media/ukraine-kalyna-viburnum.jpg": "/ukrainian-library-catalog/static/media/ukraine-kalyna-viburnum.2b8bf51a0bc641d4e4de.jpg",
+    "static/media/design.png": "/ukrainian-library-catalog/static/media/design.191b04db8783d3a3fdc8.png",
     "index.html": "/ukrainian-library-catalog/index.html",
     "main.9e5edf35.css.map": "/ukrainian-library-catalog/static/css/main.9e5edf35.css.map",
-    "main.62b06f16.js.map": "/ukrainian-library-catalog/static/js/main.62b06f16.js.map"
+    "main.57ca3c76.js.map": "/ukrainian-library-catalog/static/js/main.57ca3c76.js.map"
   },
   "entrypoints": [
     "static/css/main.9e5edf35.css",
-    "static/js/main.62b06f16.js"
+    "static/js/main.57ca3c76.js"
   ]
 }

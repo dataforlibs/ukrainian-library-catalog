@@ -1,3 +1,29 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+
+# Allow all search engines to crawl the library catalog
+Allow: /?lang=en
+Allow: /?lang=uk
+Allow: /?search=*
+
+# Disallow admin areas
+Disallow: /admin
+Disallow: /login
+Disallow: /dashboard
+
+# Crawl delay for politeness
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://yourdomain.com/sitemap-books.xml
+
+# Additional directives for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
